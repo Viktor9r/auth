@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/auth_form/static/css/main.5aa725d5.css",
-    "main.js": "/auth_form/static/js/main.23282c0c.js",
-    "static/js/787.6cf5c74a.chunk.js": "/auth_form/static/js/787.6cf5c74a.chunk.js",
-    "static/media/Vector (1).png": "/auth_form/static/media/Vector (1).1eb21c3a07ea528c3115.png",
-    "index.html": "/auth_form/index.html",
-    "main.5aa725d5.css.map": "/auth_form/static/css/main.5aa725d5.css.map",
-    "main.23282c0c.js.map": "/auth_form/static/js/main.23282c0c.js.map",
-    "787.6cf5c74a.chunk.js.map": "/auth_form/static/js/787.6cf5c74a.chunk.js.map"
+    "main.css": "/auth/static/css/main.5aa725d5.css",
+    "main.js": "/auth/static/js/main.5d3a3805.js",
+    "static/js/787.6cf5c74a.chunk.js": "/auth/static/js/787.6cf5c74a.chunk.js",
+    "static/media/Vector (1).png": "/auth/static/media/Vector (1).1eb21c3a07ea528c3115.png",
+    "index.html": "/auth/index.html",
+    "main.5aa725d5.css.map": "/auth/static/css/main.5aa725d5.css.map",
+    "main.5d3a3805.js.map": "/auth/static/js/main.5d3a3805.js.map",
+    "787.6cf5c74a.chunk.js.map": "/auth/static/js/787.6cf5c74a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5aa725d5.css",
-    "static/js/main.23282c0c.js"
+    "static/js/main.5d3a3805.js"
   ]
 }
